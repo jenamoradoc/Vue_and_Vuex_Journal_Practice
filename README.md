@@ -23,7 +23,7 @@ VueJs and Vuex practice app, base project. Journal.
 
 ## Installation
 
-Use the package manager [Yarn](https://classic.yarnpkg.com/) to install Node Modules on the app folder. 
+Use the package manager [NPM](https://www.npmjs.com/) to install Node Modules on the app folder. 
 
 ```bash
 NPM install
