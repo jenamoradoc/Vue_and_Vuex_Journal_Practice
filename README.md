@@ -37,6 +37,10 @@ npm run serve
 ```
 ![Screenshot from 2022-09-27 15-29-51](https://user-images.githubusercontent.com/26368576/192626029-a80a41b2-5136-4488-b4e8-f4ea632d553e.png)
 
+# Demo
+
+[Demo Journal](https://vue-and-vuex-journal-practice-test.vercel.app/#/)
+
 # Compiles and minifies for production
 
 ```bash
@@ -48,7 +52,6 @@ npm run build
 ```bash
 npm run lint
 ```
-
 # Technologies Used
 * HTML
 * CSS
