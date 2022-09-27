@@ -52,14 +52,7 @@ npm run lint
 # Technologies Used
 * HTML
 * CSS
-* TSX
-
-# Tests
-
-There are no tests including on this app, it could be added soon. Tool sugested [Jest](https://jestjs.io/) 
-
-# Link to Live Website
-Link: [Moms Deal Test](https://deploymentrepository.vercel.app/)
+* JS
 
 # License
 MIT License
